@@ -21,7 +21,7 @@ This project demonstrates how to securely handle sensitive user data using **Jav
 ### 1. Clone the repository:
 
 If you want to clone the project to your local machine, run:
-git clone 8888888888
+git clone https://github.com/marna4255/secure-user-object-symbols-proxy-js.git
 
 ### 2. Open the project:
 
